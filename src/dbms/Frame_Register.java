@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author GOWTHAM V BHAT
+ * @author Team137
  */
 public class Frame_Register extends javax.swing.JFrame {
 
