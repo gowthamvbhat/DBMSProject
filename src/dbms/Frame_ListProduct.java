@@ -17,7 +17,7 @@ import javax.swing.table.JTableHeader;
 
 /**
  *
- * @author GOWTHAM V BHAT
+ * @author Team137
  */
 public class Frame_ListProduct extends javax.swing.JFrame {
 
