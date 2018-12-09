@@ -13,7 +13,7 @@ import javax.swing.*;
 import java.sql.*;
 /**
  *
- * @author GOWTHAM V BHAT
+ * @author Team137
  */
 public class Frame_ProductDetails extends javax.swing.JFrame {
 
