@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author GOWTHAM V BHAT
+ * @author Team137
  */
 public class MyResultSet {
     
