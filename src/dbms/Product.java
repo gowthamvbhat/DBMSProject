@@ -7,7 +7,7 @@ package dbms;
 
 /**
  *
- * @author GOWTHAM V BHAT
+ * @author Team137
  */
 class Product {
     private String pid, name, com_name, material, color, capacity, dno, stock, price, gst;
